@@ -23,9 +23,9 @@
 </p>
 
 ### Reach me on
-- <a href="https://www.linkedin.com/in/abd-rafiq-anwar-382426187/">LinkedIn</a>
-- <a href="https://www.instagram.com/abd.rafiqanwar/">Instagram</a>
-- <a href="https://discord.com/users/rakqunn#0525">Discord</a>
+- <a href="https://www.linkedin.com/in/abd-rafiq-anwar-382426187/" target="_blank">LinkedIn</a>
+- <a href="https://www.instagram.com/abd.rafiqanwar/" target="_blank">Instagram</a>
+- <a href="https://discord.com/users/rakqunn#0525" target="_blank">Discord</a>
 
 
 <!--
