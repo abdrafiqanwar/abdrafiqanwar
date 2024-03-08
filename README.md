@@ -14,14 +14,6 @@
 <img align="left" alt="Kotlin" title="Kotlin" height="25px" src="https://kotlinlang.org/docs/images/kotlin-logo.png" />
 <br>
 
-### Github Statistic
-<p align="left">
-<a href="https://github.com/abdrafiqanwar">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=abdrafiqanwar&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=abdrafiqanwar&layout=compact&langs_count=8&theme=algolia"/>
-</a>
-</p>
-
 ### Reach me on
 - <a href="https://www.linkedin.com/in/abd-rafiq-anwar-382426187/" target="_blank">LinkedIn</a>
 - <a href="https://www.instagram.com/abd.rafiqanwar/" target="_blank">Instagram</a>
