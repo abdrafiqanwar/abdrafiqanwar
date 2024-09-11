@@ -1,8 +1,8 @@
 ### Hi!👋 I'm Rafiq.
 
-- 👀 Full Stack Web Development Enthusiast 
+- 👀 Android Development Enthusiast 
 
-- 🔭 Mobile Development Cohort at Bangkit Academy 2024 
+- 🔭 Graduated Mobile Development Cohort at Bangkit Academy 2024
 
 - 🌱 Information System Student at Hasanuddin University (Undergraduate)
 
