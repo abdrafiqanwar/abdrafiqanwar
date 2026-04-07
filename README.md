@@ -4,7 +4,7 @@
 
 - 🔭 Graduated Mobile Development Cohort at Bangkit Academy 2024
 
-- 🌱 Information System Student at Hasanuddin University (Undergraduate)
+- 🌱 Graduated Student of Information System at Hasanuddin University
 
 ### Tech Stack
 <div>
